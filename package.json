@@ -1,0 +1,14 @@
+{
+  "name": "webdav-simple-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "webdav-server": "^2.6.2"
+  }
+}
